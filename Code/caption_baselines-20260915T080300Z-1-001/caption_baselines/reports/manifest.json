@@ -1,0 +1,38 @@
+{
+  "config": {
+    "root": "/content/drive/MyDrive/DataCon",
+    "seed": 42,
+    "max_len": 50,
+    "max_concepts": 12,
+    "hidden": 128,
+    "dropout": 0.1,
+    "negatives": 50,
+    "batch_size": 128,
+    "eval_batch_size": 128,
+    "max_epochs": 25,
+    "min_epochs": 10,
+    "patience": 5,
+    "min_delta": 0.0001,
+    "lr": 0.001,
+    "weight_decay": 1e-05,
+    "grad_clip": 5.0,
+    "ks": [
+      5,
+      10,
+      20
+    ],
+    "caption_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "caption_batch_size": 128,
+    "max_caption_characters": 6000,
+    "workers": 2
+  },
+  "models": [
+    "Caption-STAMP",
+    "Caption-NextItNet",
+    "Caption-GRU4Rec",
+    "Caption-Caser",
+    "Caption-MIND"
+  ],
+  "caption_cache": "/content/drive/MyDrive/DataCon/caption_baselines/cache/caption_embeddings.npy",
+  "results": "/content/drive/MyDrive/DataCon/caption_baselines/reports/caption_baseline_results_final.csv"
+}

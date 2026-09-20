@@ -1,0 +1,8 @@
+MOOCCubeX-main/
+MOOCCubeX-main.zip
+*.pt
+*.pth
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+.env

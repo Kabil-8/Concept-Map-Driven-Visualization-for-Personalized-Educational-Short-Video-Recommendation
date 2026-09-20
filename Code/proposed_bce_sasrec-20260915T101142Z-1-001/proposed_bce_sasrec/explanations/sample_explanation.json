@@ -1,0 +1,61 @@
+{
+  "user_id": "U_100294",
+  "recommended_video_id": "V_6286749",
+  "base_score": 16.626602172851562,
+  "important_history": [
+    {
+      "video_id": "V_6286570",
+      "score_drop": NaN
+    },
+    {
+      "video_id": "V_6286707",
+      "score_drop": 8.303110122680664
+    },
+    {
+      "video_id": "V_6286582",
+      "score_drop": 2.9061403274536133
+    },
+    {
+      "video_id": "V_6286580",
+      "score_drop": 1.5216598510742188
+    },
+    {
+      "video_id": "V_6286574",
+      "score_drop": 1.164133071899414
+    }
+  ],
+  "important_concepts": [
+    {
+      "concept_id": "K_地址_计算机科学与技术",
+      "attention_weight": 0.9799206852912903
+    },
+    {
+      "concept_id": "K_程序_计算机科学与技术",
+      "attention_weight": 0.0049403817392885685
+    },
+    {
+      "concept_id": "K_动态创建一维数组_计算机科学与技术",
+      "attention_weight": 0.003218721831217408
+    },
+    {
+      "concept_id": "K_for循环嵌套_计算机科学与技术",
+      "attention_weight": 0.0027219681069254875
+    },
+    {
+      "concept_id": "K_遍历_计算机科学与技术",
+      "attention_weight": 0.0026616204995661974
+    },
+    {
+      "concept_id": "K_操作_计算机科学与技术",
+      "attention_weight": 0.002153037115931511
+    },
+    {
+      "concept_id": "K_move函数_计算机科学与技术",
+      "attention_weight": 0.0019098662305623293
+    },
+    {
+      "concept_id": "K_动态创建_计算机科学与技术",
+      "attention_weight": 0.0007435724837705493
+    }
+  ]
+}

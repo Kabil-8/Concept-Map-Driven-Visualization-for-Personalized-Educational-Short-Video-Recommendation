@@ -1,0 +1,22 @@
+{
+  "max_len": 50,
+  "max_concepts_per_video": 12,
+  "hidden_dim": 256,
+  "transformer_layers": 2,
+  "attention_heads": 4,
+  "feedforward_dim": 512,
+  "dropout": 0.14292697904342555,
+  "time_buckets": 32,
+  "negatives": 100,
+  "batch_size": 256,
+  "eval_batch_size": 256,
+  "learning_rate": 0.0005,
+  "weight_decay": 1e-06,
+  "concept_loss_weight": 0.11728840427094034,
+  "completion_loss_weight": 0.05,
+  "gradient_clip": 0.5,
+  "minimum_epochs": 8,
+  "early_stopping_patience": 4,
+  "early_stopping_min_delta": 0.0001,
+  "use_mixed_precision": false
+}

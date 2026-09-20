@@ -1,0 +1,11 @@
+file,exists,size_mb,partial_download
+entities/video.json,True,579.9,False
+entities/user.json,True,769.41,False
+entities/course.json,True,42.59,False
+entities/concept.json,True,155.41,False
+relations/user-video.json,True,3031.94,False
+relations/concept-video.txt,True,38.51,False
+relations/video_id-ccid.txt,True,114.19,False
+prerequisites/psy.json,True,132.82,False
+prerequisites/cs.json,True,86.02,False
+prerequisites/math.json,True,58.54,False

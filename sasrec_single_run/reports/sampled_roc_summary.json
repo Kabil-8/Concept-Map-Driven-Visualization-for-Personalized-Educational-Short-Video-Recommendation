@@ -1,0 +1,6 @@
+{
+  "42": {
+    "sampled_ROC_AUC": 0.9108126250882949,
+    "sampled_average_precision": 0.6601109577978124
+  }
+}

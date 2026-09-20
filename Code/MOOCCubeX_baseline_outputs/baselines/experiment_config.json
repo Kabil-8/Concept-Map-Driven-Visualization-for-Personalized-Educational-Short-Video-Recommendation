@@ -1,0 +1,34 @@
+{
+  "root": "/content/drive/MyDrive/DataCon",
+  "seed": 42,
+  "max_len": 50,
+  "hidden_dim": 128,
+  "heads": 4,
+  "layers": 2,
+  "dropout": 0.1,
+  "batch_size": 256,
+  "eval_batch_size": 128,
+  "epochs": 10,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "graph_learning_rate": 0.002,
+  "ks": [
+    5,
+    10,
+    20
+  ],
+  "patience": 3,
+  "num_workers": 2,
+  "num_users": 12895,
+  "num_items": 4149,
+  "train_interactions": 111621,
+  "evaluation_users": 12894,
+  "models": [
+    "NARM",
+    "SASRec",
+    "BERT4Rec",
+    "LightGCN",
+    "HGT"
+  ],
+  "protocol": "full-catalog chronological leave-two-out"
+}

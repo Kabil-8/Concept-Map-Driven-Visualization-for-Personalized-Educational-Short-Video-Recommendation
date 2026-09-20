@@ -1,0 +1,5 @@
+check,matched,total,coverage_pct
+behavior video IDs mapped to ccid,193422,193624,99.89567408998884
+mapped ccids found in video entities,37052,89938,41.19726922991394
+concept relation keys matching video_id,0,34101,0.0
+concept relation keys matching ccid,34101,34101,100.0

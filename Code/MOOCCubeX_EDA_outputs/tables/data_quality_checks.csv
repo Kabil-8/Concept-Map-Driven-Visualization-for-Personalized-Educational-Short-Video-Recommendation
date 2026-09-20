@@ -1,0 +1,10 @@
+check,passed
+Required raw files present,False
+No partial download markers,True
+Video entity IDs available,True
+Positive video durations available,True
+User-video records parsed,True
+Video ID mapping available,True
+Concept-video edges available,True
+Behavior IDs map to captions,True
+Initial short-video candidates available,True

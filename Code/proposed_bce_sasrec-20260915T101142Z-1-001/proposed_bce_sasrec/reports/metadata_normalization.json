@@ -1,0 +1,20 @@
+{
+  "meta_columns": [
+    "duration_seconds",
+    "subtitle_sentences",
+    "subtitle_characters",
+    "concept_count"
+  ],
+  "mean": {
+    "duration_seconds": 5.6959075927734375,
+    "subtitle_sentences": 4.460177898406982,
+    "subtitle_characters": 6.969780921936035,
+    "concept_count": 2.436663866043091
+  },
+  "std": {
+    "duration_seconds": 0.502198338508606,
+    "subtitle_sentences": 0.6672276854515076,
+    "subtitle_characters": 0.6553054451942444,
+    "concept_count": 0.7926328182220459
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "archive": "/kaggle/working/BCE_SASRec_3Seeds_NoTrials_outputs.zip",
+  "graphs": [
+    "01_train_validation_loss_curves.png",
+    "02_component_loss_curves.png",
+    "03_validation_ndcg_curves.png",
+    "04_validation_recall_curves.png",
+    "05_validation_precision_curves.png",
+    "06_validation_f1_curves.png",
+    "07_validation_map_curves.png",
+    "08_validation_accuracy_mrr_concept_curves.png",
+    "09_completion_error_curves.png",
+    "10_validation_mean_rank_curve.png",
+    "11_coverage_novelty_curves.png",
+    "12_final_split_metric_comparison.png",
+    "13_test_seed_stability.png",
+    "14_test_ranking_curves_at_k.png"
+  ],
+  "roc": {
+    "generated": false,
+    "reason": "Candidate-level y_true and y_score were not included in the archive."
+  },
+  "test_mean": {
+    "NDCG@10": 0.6935422269217449,
+    "Recall@10": 0.8223917441579895,
+    "MRR": 0.6593576794968073,
+    "Accuracy@1": 0.5718395604803533,
+    "ConceptRecall@10": 0.81385716137129,
+    "Recall@20": 0.8813222710989846
+  },
+  "test_std": {
+    "NDCG@10": 0.0051036588743644,
+    "Recall@10": 0.0028098004466588318,
+    "MRR": 0.006057551964534613,
+    "Accuracy@1": 0.00982890096317561,
+    "ConceptRecall@10": 0.001101574876742498,
+    "Recall@20": 0.0024559236642015246
+  }
+}

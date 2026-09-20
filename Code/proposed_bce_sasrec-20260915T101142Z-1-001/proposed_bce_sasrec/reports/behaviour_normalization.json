@@ -1,0 +1,32 @@
+{
+  "columns": [
+    "watched_seconds",
+    "playback_seconds",
+    "duration_seconds",
+    "completion_ratio",
+    "segment_count",
+    "engagement_weight"
+  ],
+  "mean": {
+    "watched_seconds": 5.461823463439941,
+    "playback_seconds": 5.252878189086914,
+    "duration_seconds": 5.768125534057617,
+    "completion_ratio": 0.7878283858299255,
+    "segment_count": 1.1691861152648926,
+    "engagement_weight": 0.7655743956565857
+  },
+  "std": {
+    "watched_seconds": 0.6203032732009888,
+    "playback_seconds": 0.6954185366630554,
+    "duration_seconds": 0.4755024015903473,
+    "completion_ratio": 0.2360905557870865,
+    "segment_count": 0.4852695167064667,
+    "engagement_weight": 0.20102158188819885
+  },
+  "log1p_columns": [
+    "duration_seconds",
+    "playback_seconds",
+    "segment_count",
+    "watched_seconds"
+  ]
+}

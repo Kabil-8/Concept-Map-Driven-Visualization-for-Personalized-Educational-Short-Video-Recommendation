@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-09-12T05:15:53.192998+00:00",
+  "raw_root": "/content/drive/MyDrive/DataCon/MOOCCubeX",
+  "output_root": "/content/drive/MyDrive/DataCon/EDA_outputs",
+  "entity_counts": {
+    "video": 59581,
+    "course": 3781,
+    "concept": 637572,
+    "user": 3330294
+  },
+  "user_video": {
+    "users": 310360,
+    "video_events": 21295747,
+    "segments": 25709799,
+    "invalid_segments": 38865,
+    "missing_video_ids": 0
+  },
+  "video_id_ccid_edges": 2798892,
+  "concept_video_edges": 624683,
+  "concepts_linked": 217038,
+  "videos_or_ccids_linked_to_concepts": 34101,
+  "detected_concept_video_key_type": "ccid",
+  "short_videos_10min": 34230,
+  "initial_eligible_short_videos": 27032,
+  "all_quality_checks_passed": false
+}

@@ -1,0 +1,20 @@
+{
+  "meta_columns": [
+    "duration_seconds",
+    "caption_segment_count",
+    "caption_characters",
+    "concept_count"
+  ],
+  "mean": {
+    "duration_seconds": 5.704272270202637,
+    "caption_segment_count": 4.469882965087891,
+    "caption_characters": 7.0577287673950195,
+    "concept_count": 2.1493897438049316
+  },
+  "std": {
+    "duration_seconds": 0.5088746547698975,
+    "caption_segment_count": 0.6647690534591675,
+    "caption_characters": 0.6694880723953247,
+    "concept_count": 1.0694642066955566
+  }
+}

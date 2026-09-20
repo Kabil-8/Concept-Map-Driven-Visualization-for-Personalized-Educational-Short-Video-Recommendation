@@ -1,0 +1,4 @@
+domain,records,extracted_nodes,unparsed_records,fields
+psy,757771,871,0,"c1,c2,ground_truth,text_predict,graph_predict"
+cs,492102,702,0,"c1,c2,ground_truth,text_predict,graph_predict"
+math,331202,576,0,"c1,c2,ground_truth,text_predict,graph_predict"
